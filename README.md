@@ -21,11 +21,11 @@ experience level.
 
 ## Key findings
 - What are the top 5 locations with the most job postings?
-  United States 7,847
-  New York 2,726
-  Chicago, IL 1,815
-  Houston, TX 1,740
-  Dallas, TX 1,370
+- United States 7,847
+- New York 2,726
+- Chicago, IL 1,815
+- Houston, TX 1,740
+- Dallas, TX 1,370
 
 - What percentage of jobs are each work type?
   Full time - 79.88%
