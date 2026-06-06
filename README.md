@@ -28,19 +28,19 @@ experience level.
 - Dallas, TX 1,370
 
 - What percentage of jobs are each work type?
-  Full time - 79.88%
-  Contract - 9.79%
-  Part-time - 7.77%
-  Temporary - 0.96%
-  Internship - 0.78%
-  Volunteer - 0.45%
-  Other - 0.37% 
+- Full time - 79.88%
+- Contract - 9.79%
+- Part-time - 7.77%
+- Temporary - 0.96%
+- Internship - 0.78%
+- Volunteer - 0.45%
+- Other - 0.37% 
   
 - The top hiring company is X with X job postings
-  The top hiring company is liberty Health and Rehab with 1108 job postings
+- The top hiring company is Liberty Health and Rehab with 1108 job postings
   
 - Entry level roles make up x% of all listings
-  Entry lvel role is 30.03%
+- Entry lvel role is 30.03%
 
 
 ## How to run
